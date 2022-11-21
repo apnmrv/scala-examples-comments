@@ -1,5 +1,9 @@
-.gitignore
-.bsp
+*.class
+*.log
+.bloop
+.metals
 .idea
-project
-target
+.bsp
+target/
+project/metals.sbt
+*/**/metals.sbt
